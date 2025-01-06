@@ -1,19 +1,19 @@
 # [Hostel Attendance]
 
 ## Project Team
-**Team Name:** [Code Catalyst]
+**Team Name:** Code Catalyst
 
 ---
 
 ## Project Description
-[Provide a brief and engaging description of your project. Highlight its purpose, goals, and any unique features.]
+An innovative solution designed to streamline and automate the process of tracking student attendance in a hostel environment.
 
 ---
 
 ## Repository Details
 
 ### Local Repository
-**Folder Name:** `[CODECATALYST]`
+**Folder Name:** `CODECATALYST`
 
 ### Remote Repository
 **Repository Name:** `[https://github.com/Iinda-christina/Code-Catalyst]`
@@ -23,15 +23,15 @@
 ## Branch Details
 
 ### Branch You Worked On
-**Branch Name:** `[master]`
+**Branch Name:** `master`
 
 ### Merge Branch
-**Merged Into:** `[secondary-branch]`
+**Merged Into:** `secondary-branch`
 
 ---
 
 ## Cloned Repository
-**Original Repository Name:** `[libgit2]`
+**Original Repository Name:** `libgit2`
 
 ---
 
