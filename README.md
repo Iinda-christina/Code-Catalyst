@@ -1,4 +1,4 @@
-# [Hostel Attendance]
+# Hostel Attendance
 
 ## Project Team
 **Team Name:** Code Catalyst
@@ -16,7 +16,7 @@ An innovative solution designed to streamline and automate the process of tracki
 **Folder Name:** `CODECATALYST`
 
 ### Remote Repository
-**Repository Name:** `[https://github.com/Iinda-christina/Code-Catalyst]`
+**Repository Name:** `https://github.com/Iinda-christina/Code-Catalyst`
 
 ---
 
